@@ -14,7 +14,7 @@ def load_model():
     load_in_4bit = True # Use 4bit quantization to reduce memory usage. Can be False.
 
     model, tokenizer = FastLanguageModel.from_pretrained(
-        model_name = "/workspace/papering_qa/work_dir2/checkpoint-500",
+        model_name = "./models/checkpoint-500",
         max_seq_length = max_seq_length,
         dtype = dtype,
         load_in_4bit = load_in_4bit,
