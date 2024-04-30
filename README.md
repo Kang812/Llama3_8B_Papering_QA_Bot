@@ -1,4 +1,6 @@
 # Llama3_8B_Papering_QA_Bot
+![image](./image/llama-papering.jpeg)
+
 ## install library
 ```
 pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
