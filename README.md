@@ -31,3 +31,7 @@ pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
 <br>
 -[inference_colab_notebook](https://github.com/Kang812/Llama3_8B_Papering_QA_Bot/blob/main/colab_notebook/llama_3_8B_inference.ipynb)
 
+## Demo
+```
+streamlit run app.py
+```
