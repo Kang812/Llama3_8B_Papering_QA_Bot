@@ -8,3 +8,5 @@ pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
 ```
 ./llama3_train.sh
 ```
+#### llama3_train.sh parameter
+- model_name : 모델의 이름
