@@ -3,6 +3,7 @@
 ```
 pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
 pip install --no-deps packaging ninja einops flash-attn xformers trl peft accelerate bitsandbytes
+pip install gdown
 pip install -r requirements.txt
 ```
 
