@@ -3,3 +3,8 @@
 ```
 pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
 ```
+
+### train model
+```
+./llama3_train.sh
+```
