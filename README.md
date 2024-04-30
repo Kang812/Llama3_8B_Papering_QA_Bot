@@ -29,6 +29,13 @@ pip install -r requirements.txt
 - save_total_limit : 모델을 저장하는 최대 개수 지정 (default : 3)
 - output_dir : 모델 저장 위치
 
+## model download
+```
+git clone https://github.com/Kang812/Llama3_8B_Papering_QA_Bot.git
+cd ./models
+python model_download.py
+```
+
 ## colab 기반으로 모델 학습 및 inference
 -[train_colab_notebook](https://github.com/Kang812/Llama3_8B_Papering_QA_Bot/blob/main/colab_notebook/llama_3_8B_train.ipynb)
 <br>
