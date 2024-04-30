@@ -25,3 +25,6 @@ pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
 - save_steps  : 몇 스탭마다 모델을 저장(default : 500)
 - save_total_limit : 모델을 저장하는 최대 개수 지정 (default : 3)
 - output_dir : 모델 저장 위치
+
+#### colab 기반으로 모델 학습 및 inference
+-[colab_notebook]
