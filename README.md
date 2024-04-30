@@ -27,4 +27,6 @@ pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
 - output_dir : 모델 저장 위치
 
 #### colab 기반으로 모델 학습 및 inference
--[colab_notebook]
+-[train_colab_notebook](https://github.com/Kang812/Llama3_8B_Papering_QA_Bot/blob/main/colab_notebook/llama_3_8B_train.ipynb)
+-[inference_colab_notebook](https://github.com/Kang812/Llama3_8B_Papering_QA_Bot/blob/main/colab_notebook/llama_3_8B_inference.ipynb)
+
